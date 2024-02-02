@@ -1,0 +1,1 @@
+Buenas, Soy Fran Braulio de 1DAW, aun no hemos aprendido las herencias ya que llevamos 2 semanas con POO, igualmente he intenado hacer lo que he podido y he encontrado por internet, muchas gracias por la oportunidad.
